@@ -28,4 +28,4 @@ cd build
 cmake ..
 cmake --build . --config Release
 ```
-
+![Image Alt](https://github.com/sorokvashinayuliya/ping_pong/blob/main/ping_pongimage.PNG)
